@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer dedicated to building amazing software and contributing to the open-source community.
+Welcome to my GitHub profile! I'm a passionate developer dedicated to building amazing website and contributing to the open-source community.
 
 ## 🚀 About Me
 
@@ -14,6 +14,7 @@ I'm enthusiastic about solving complex problems through clean, efficient code. I
 - **Databases**: PostgreSQL, MongoDB, Redis
 - **Tools & Platforms**: Git, Docker, Kubernetes, AWS, GitHub Actions
 - **Other**: REST APIs, GraphQL, Microservices, Unit Testing
+- https://roadmap.sh/projects/basic-html-website
 
 ## 📊 GitHub Stats
 
